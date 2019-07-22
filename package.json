@@ -1,0 +1,21 @@
+{
+  "name": "SureelTest",
+  "version": "1.0.0",
+  "description": "My legendary Nuxt.js project",
+  "author": "MaryamAfzal1",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "parse": "^2.5.1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^1.0.0",
+    "nodemon": "^1.18.9"
+  }
+}
