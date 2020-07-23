@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "nuxt": "^2.0.0",
-    "parse": "^2.5.1"
+    "parse": "^2.10.0"
   },
   "devDependencies": {
     "tailwindcss": "^1.0.0",
